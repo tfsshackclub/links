@@ -1,0 +1,23 @@
+[
+  {
+    "name": "g",
+    "title": "Github",
+    "description": "All of my open-source and personal work",
+    "public": true,
+    "url": "https://github.com/rishiosaur"
+  },
+  {
+    "name": "t",
+    "title": "Twitter",
+    "description": "Thoughts, analogies, and just all-around me being me.",
+    "public": true,
+    "url": "https://twitter.com/rishiosaur"
+  },
+  {
+    "name": "i",
+    "title": "Instagram",
+    "description": "Posts, features, and pictures!",
+    "public": true,
+    "url": "https://instagram.com/rishi.cx"
+  }
+]
