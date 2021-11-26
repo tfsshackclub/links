@@ -19,5 +19,12 @@
     "description": "Sign in",
     "public": true,
     "url": "https://docs.google.com/forms/d/e/1FAIpQLSfrgGvag4KQJLgEeZ6zGeTOyVJQVlpWLseyVxnLVyN9NZ3f0Q/viewform?usp=sf_link"
+  },
+  {
+    "name": "intro",
+    "title": "figma link to intro meeting",
+    "description": "",
+    "public": true,
+    "url": "https://www.figma.com/proto/NIXX0NUOFtTCMrmHovwAxm/Intro-Meeting?page-id=0%3A1&node-id=1058%3A101&viewport=242%2C48%2C0.15&scaling=contain",
   }
 ]
