@@ -26,5 +26,19 @@
     "description": "awefaewf",
     "public": true,
     "url": "https://www.figma.com/proto/NIXX0NUOFtTCMrmHovwAxm/Intro-Meeting?page-id=0%3A1&node-id=1058%3A101&viewport=242%2C48%2C0.15&scaling=contain"
+  },
+  {
+    "name": "demo",
+    "url": "http://sound-galaxy--techbug2012.repl.co",
+    "public": true,
+    "title": "Current workshop demo link",
+    "description": "Workshop demo"
+  },
+  {
+    "name": "start",
+    "url": "https://replit.com/@TechBug2012/sound-galaxy-starter",
+    "public": true,
+    "title": "Current workshop demo link",
+    "description": "Workshop demo"
   }
 ]
